@@ -1,3 +1,5 @@
+This repository aims to study some vector databases and obtain metrics related to the speed and quality of responses with a focus on the llama index
+
 ## Data Framework
 - [LLAMA INDEX](https://llamaindex.ai)
 
@@ -8,9 +10,8 @@
 ## Containers
 - [WEAVIATE](https://weaviate.io/developers/weaviate/installation/docker-compose)
 
-## Structure
-
-.
+## Directory Structure
+<pre>
 ├── chatbot_llama_index
 │   ├── chroma_core.py
 │   ├── chroma_generate.py
@@ -34,3 +35,4 @@
 ├── README.md
 └── tests
     └── __init__.py
+</pre>
