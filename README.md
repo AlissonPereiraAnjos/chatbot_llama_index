@@ -11,6 +11,9 @@ This repository aims to study some vector databases and obtain metrics related t
 - [WEAVIATE](https://weaviate.io/developers/weaviate/installation/docker-compose)
 
 ## Directory Structure
+
+This project was generated using [Poetry](https://python-poetry.org/) - Python packaging and dependency management
+
 <pre>
 ├── chatbot_llama_index
 │   ├── chroma_core.py
