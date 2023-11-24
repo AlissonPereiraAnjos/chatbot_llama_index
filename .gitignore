@@ -1,3 +1,6 @@
-chatbot_llama_index/data
+chatbot_llama_index/data/*.pdf
+chatbot_llama_index/data/chroma/*
 chatbot_llama_index/.env
+chatbot_llama_index/__pycache__
+__pycache__
 .env
